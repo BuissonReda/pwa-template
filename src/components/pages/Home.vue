@@ -18,7 +18,7 @@
           </v-card-media>
           <v-card-title>
             <div>
-              <span>This site is a PWA (Progressive Web Application) made in Vue.js</span><br>
+              <p>This site is a PWA (Progressive Web Application) made in Vue.js</p>
             </div>
           </v-card-title>
           <v-card-actions>
